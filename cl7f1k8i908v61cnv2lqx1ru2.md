@@ -12,49 +12,53 @@ As web developers we need to learn. A lot. And it's not just learning, we also n
 
 - [The Odin Project](https://www.theodinproject.com/)
 
-The Odin Project is one of my favorite resources to learn web development. What makes odin unique is that they do not hold your hand and walk you through. They give you the tools and you use them to learn, you set up your own development environment. In my opinion Odin prepares you to be a developer that can learn any new technology on their own. This is a very powerful and important skill.
+  The Odin Project is one of my favorite resources to learn web development. What makes odin unique is that they do not hold your hand and walk you through. They give you the tools and you use them to learn, you set up your own development environment. In my opinion Odin prepares you to be a developer that can learn any new technology on their own. This is a very powerful and important skill.
 
 - [freeCodeCamp](https://www.freecodecamp.org/)
 
-freeCodeCamp is great for newbies. I recommend it to everyone that is just starting out with programming in general. The lessons are pretty integrated and most of them can be done in the browser at the beginning stage. 
-It is also a good challenge to do Odin and freeCodeCamp simultanously. Best of both worlds.
+  freeCodeCamp is great for newbies. I recommend it to everyone that is just starting out with programming in general. The lessons are pretty integrated and most of them can be done in the browser at the beginning stage. 
+
+  It is also a good challenge to do Odin and freeCodeCamp simultaneously. Best of both worlds.
 
 - [Frontendmasters](https://frontendmasters.com/)
 
-Frontendmasters is **one of the best** out there. In there, you will have **the true masters** of their craft teaching you front-end engineering. Highly recommended for all web developers from beginners to seasoned experts.
+  Frontendmasters is **one of the best** out there. In there, you will have **the true masters** of their craft teaching you front-end engineering. Highly recommended for all web developers from beginners to seasoned experts.
  
-If you are a student and eligible for Github Student Pack, you get 6 months free on this platform! More info on [frontendmasters' website](https://frontendmasters.com/welcome/github-student-developers/) and [github student pack](https://education.github.com/pack)
-They also have a completely free bootcamp for total webdev beginners where they teach the very basics of HTML, CSS and JavaScript. Check it out [on their website](https://frontendmasters.com/bootcamp/) 
+  If you are a student and eligible for Github Student Pack, you get 6 months free on this platform! More info on [frontendmasters' website](https://frontendmasters.com/welcome/github-student-developers/) and [github student pack](https://education.github.com/pack)
+  
+  They also have a completely free bootcamp for total webdev beginners where they teach the very basics of HTML, CSS and JavaScript. Check it out [on their website](https://frontendmasters.com/bootcamp/) 
  
 ### Practice, Practice, Practice
 
-It is undeniable that we need to practice to get good at programming, frameworks and everything in between. There is not a single person in the world that is good at a new skill without practice. That is why you should visit these sites frequently and keep your skills sharp!
+  It is undeniable that we need to practice to get good at programming, frameworks and everything in between. There is not a single person in the world that is good at a new skill without practice. That is why you should visit these sites frequently and keep your skills sharp!
 
 - [Codewars](https://www.codewars.com/)
 
-Codewars has "kata". Which are basically programming problems. You can code the solution in their web editor and get integrated TDD (test driven development) out of the box.
-As you solve kata, you will progress to more difficult ones and earn ranks. This is an example of mastery learning.
+  Codewars has "kata". Which are basically programming problems. You can code the solution in their web editor and get integrated TDD (test driven development) out of the box.
+
+  As you solve kata, you will progress to more difficult ones and earn ranks. This is an example of mastery learning.
 
 - [Leetcode](https://leetcode.com/)
 
-Leetcode has lots of challenges in all difficulties. This is a good platform to prepare for dreaded technical intervews as you will find challenges and interview questions here.
+  Leetcode has lots of challenges in all difficulties. This is a good platform to prepare for dreaded technical intervews as you will find challenges and interview questions here.
 
 - [Hackerrank](https://www.hackerrank.com/)
 
-Hackerrank is also great for preparing for interviews. They are more structured and hackathon-like compared to Leetcode. Definitely recommended.
+  Hackerrank is also great for preparing for interviews. They are more structured and hackathon-like compared to Leetcode. Definitely recommended.
 
 - [Project Euler](https://projecteuler.net/)
 
-Project Euler is one of my favorites. All of the problems are math problems. Don't let that scare you though, this is great for thinking with numbers. Check it out!
+  Project Euler is one of my favorites. All of the problems are math problems. Don't let that scare you though, this is great for thinking with numbers. Check it out!
 
 - [Exercism](https://exercism.org/)
 
-If you want to learn a new language, get some practice and receive feedback then Exercism is just for you. 
-It has more than 60 languages. With their guided track you learn and solve problems. After solving the problem you wait for feedback from the community mentors. After the mentor approves your solution you move onto the next problem. I found it very helpful while learning JavaScript, Rust and Bash.
+  If you want to learn a new language, get some practice and receive feedback then Exercism is just for you. 
+  
+  It has more than 60 languages. With their guided track you learn and solve problems. After solving the problem you wait for feedback from the community mentors. After the mentor approves your solution you move onto the next problem. I found it very helpful while learning JavaScript, Rust and Bash.
 
 - [Frontend mentor](https://www.frontendmentor.io/)
 
-Frontend mentor gives you website templates to create with your tech stack. It is great for web developers to get some real practice.
+  Frontend mentor gives you website templates to create with your tech stack. It is great for web developers to get some real practice.
 
 ## Read The Documentation, Please!
 
@@ -84,7 +88,7 @@ Here are some of the communities I am in:
 
 - [4C](https://discord.com/invite/cRjhjFRRre) (Cool Community of Content Creators) by [Francesco Ciulla](https://linktr.ee/francescociulla)
   
-4C is for content creators, newbies, seasoned developers and even [github stars](https://github.com/eddiejaoude). Highly recommended!
+  4C is for content creators, newbies, seasoned developers and even [github stars](https://github.com/eddiejaoude). Highly recommended!
 
 - [The Odin Project](https://discord.gg/fbFCkYabZB)
 
