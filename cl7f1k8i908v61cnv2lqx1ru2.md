@@ -94,7 +94,7 @@ Here are some of the communities I am in:
 
 - [Jamstack](https://discord.gg/jamstack)
 
--[LearnWeb3DAO](https://discord.gg/DEgBGCBsM8)
+- [LearnWeb3DAO](https://discord.gg/DEgBGCBsM8)
 
 - [The Web Developer Bootcamp](https://discord.gg/XFc2dMySPJ)
 
