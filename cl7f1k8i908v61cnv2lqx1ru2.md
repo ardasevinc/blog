@@ -84,7 +84,7 @@ Here are some of the communities I am in:
 
 - [4C](https://discord.com/invite/cRjhjFRRre) (Cool Community of Content Creators) by [Francesco Ciulla](https://linktr.ee/francescociulla)
   
-4C is for content creators, newbies, seasoned developers and even [github stars](https://github.com/eddiejaoude). Higly recommended!
+4C is for content creators, newbies, seasoned developers and even [github stars](https://github.com/eddiejaoude). Highly recommended!
 
 - [The Odin Project](https://discord.gg/fbFCkYabZB)
 
