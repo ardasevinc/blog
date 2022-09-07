@@ -38,3 +38,5 @@ Good luck in your journey!
 
 
 Thanks to Hashnode for creating this awesome #4articles4weeks writeathon. This is my #week1 submission and actually my first blog post since 2008.
+
+%%[ko-fi]
