@@ -1,8 +1,10 @@
-## Take This With You: The Minimalistic Web Developer Self Care Kit
+# Take This With You: The Minimalistic Web Developer Self Care Kit
 
 This article is a collection of principles and helpful resources for web developers. Hope you find something helpful to you! 
 
 *Docs and websites in this article will be updated frequently*
+
+*Last updated on 2022-11-10 09:50 UTC*
 
 ## Always Be Learning, Always Be Seeking
 
@@ -26,7 +28,21 @@ As web developers we need to learn. A lot. And it's not just learning, we also n
  
   If you are a student and eligible for Github Student Pack, you get 6 months free on this platform! More info on [frontendmasters' website](https://frontendmasters.com/welcome/github-student-developers/) and [github student pack](https://education.github.com/pack)
   
-  They also have a completely free bootcamp for total webdev beginners where they teach the very basics of HTML, CSS and JavaScript. Check it out [on their website](https://frontendmasters.com/bootcamp/) 
+  They also have a completely free bootcamp for total webdev beginners where they teach the very basics of HTML, CSS and JavaScript. Check it out [on their website](https://frontendmasters.com/bootcamp/)
+
+- [LearnWeb3DAO](https://learnweb3.io/)
+
+  LearnWeb3DAO is created by wonderful @[Kacie Ahmed](@KacieAhmed) and @[Haardik](@haardikkk), they helped lots of people get into web3 with their program. 
+
+  LW3 is great for everyone. You do need to have *some* programming experience but other than that there are no hard requirements. If you have little to no experience with web3 you can start right at their freshman track and move on to sophomore, junior and senior.
+  
+  I am about to finish Sophomore and I can say that lessons are pretty good paced 
+    and you get to build stuff! 
+
+- [Developer Dao Academy](https://academy.developerdao.com/)
+
+- [Alchemy's Road to Web3](https://www.web3.university/) and upcoming [Alchemy University](https://university.alchemy.com/)
+
  
 ### Practice, Practice, Practice
 
@@ -60,11 +76,19 @@ As web developers we need to learn. A lot. And it's not just learning, we also n
 
   Frontend mentor gives you website templates to create with your tech stack. It is great for web developers to get some real practice.
 
+- [Buildspace](https://buildspace.so/)
+
+  Learn web3 by doing cool projects. *Prior programming experience required*. 
+
+- [Cryptozombies](https://cryptozombies.io/)
+  
+  Gamified smart contract education, it's pretty cool.
+
 ## Read The Documentation, Please!
 
 **When in doubt, hit the docs!**
  
-Often we make mistakes because we didn't read the docs and do not know what functions are there and how the api works and so on...
+Often we make mistakes because we didn't read the docs and do not know what functions are there and how the api works - the list goes on and on!
 
 Here are some wikis, docs and websites I visit frequently. 
 
@@ -73,12 +97,15 @@ Here are some wikis, docs and websites I visit frequently.
 - [MDN by Mozilla](https://developer.mozilla.org/en-US/)
 - [Devdocs](https://devdocs.io/) -> massive collection of API Docs and more!
 - React Docs
-- NextJS Docs
+  - [React Beta Docs](https://beta.reactjs.org/) is mostly complete, looks better and is more accessible
+  - [The good old React docs](https://reactjs.org/docs/getting-started.html)
+- [NextJS Docs](https://nextjs.org/docs)
 - [Arch Linux Wiki](https://wiki.archlinux.org/) -> Best wiki for all linux users
 
 ## Join A Community
 
-Learning and truly mastering web development is a long journey. You will often be frustrated, things will stop making sense. There will be errors on line 43 while your code is 42 lines long...
+Learning and truly mastering web development is a long journey. You will often be frustrated, things will stop making sense. 
+There will be *errors on line 43* while your code is *42 lines* long...
 
 In a community you can ask questions, help others and grow together while having a feeling of belonging. Quoting [this page by odin project](https://www.theodinproject.com/lessons/foundations-join-the-odin-community)
 
@@ -99,6 +126,14 @@ Here are some of the communities I am in:
 - [Jamstack](https://discord.gg/jamstack)
 
 - [LearnWeb3DAO](https://discord.gg/DEgBGCBsM8)
+
+- [Developer Dao]
+
+  Developer Dao is a community that is very important to me. It is founded by @[Nader Dabit](@dabit3) and other awesome people like @[Will Kempster](@kempsterrrr). They started out when web3 hype on twitter was at the peak last year. This community is token gated but I guarantee you it is worth it. When I joined last year, minting the genesis NFT, I was sponsored by a kind benefactor. I am forever thankful for that.
+
+My hopes are up with D_D!
+
+- [Alchemy](https://alchemy.com/discord)
 
 - [The Web Developer Bootcamp](https://discord.gg/XFc2dMySPJ)
 
@@ -171,5 +206,3 @@ Some tips to stay healthy
 
 
 Thanks for reading! Please let me know in the comments if there is anything.
-
-*This article was written for #4articles4weeks as the #week2 submission. I merged topics 2,3 and added my own touch.*
