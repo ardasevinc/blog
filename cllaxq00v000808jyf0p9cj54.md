@@ -1,9 +1,9 @@
 ---
-title: "BTRFS Maintance Guide: Do's and Don'ts"
+title: "BTRFS Maintenance Guide: Do's and Don'ts"
 seoDescription: "BTRFS freezing, scrub, balance, how to do btrfs maintance."
 datePublished: Mon Aug 14 2023 13:52:57 GMT+0000 (Coordinated Universal Time)
 cuid: cllaxq00v000808jyf0p9cj54
-slug: btrfs-maintance-guide
+slug: btrfs-maintenance-guide
 tags: linux
 
 ---
